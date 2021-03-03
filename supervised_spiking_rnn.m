@@ -1,5 +1,5 @@
 %{
-Surrogate gradient spiking RNN for classification taks in MATLAB
+Surrogate gradient spiking RNN for classification tasks in MATLAB
 %}
 
 function [V,U,W,b1,b2,acc_train, acc_test] = train_rnn(Lstate, batch_size, epochs)
